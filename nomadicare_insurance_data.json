@@ -1,0 +1,2297 @@
+[
+  {
+    "state": "Alabama",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$100",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Alaska",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "8-10 weeks",
+    "Initial Cost": "$250",
+    "Renewal Cost": "$250",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Arizona",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$200",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Arkansas",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$140",
+    "Renewal Cost": "$80",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "California",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$110",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Colorado",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$145",
+    "Renewal Cost": "$145",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Connecticut",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$205",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Delaware",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$155",
+    "Renewal Cost": "$0",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Columbia",
+    "license_type": "Speech Language Pathologist Licensure in District",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$314",
+    "Renewal Cost": "$179",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Florida",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$280",
+    "Renewal Cost": "$80",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Georgia",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$110",
+    "Renewal Cost": "$60",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Hawaii",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$264",
+    "Renewal Cost": "$176",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Idaho",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$100",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Illinois",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$90",
+    "Renewal Cost": "$25",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Indiana",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$100",
+    "CE Requirements": "36 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Iowa",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$96",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Kansas",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$135",
+    "Renewal Cost": "$135",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Kentucky",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$50",
+    "Renewal Cost": "$100",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Louisiana",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$125",
+    "Renewal Cost": "$65",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Maine",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$71",
+    "Renewal Cost": "$50",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Maryland",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$250",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Massachusetts",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$68",
+    "Renewal Cost": "$68",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Michigan",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$159",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Minnesota",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$218",
+    "Renewal Cost": "$200",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mississippi",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$175",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Missouri",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$25",
+    "Renewal Cost": "$83",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Montana",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$192",
+    "Renewal Cost": "$110",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Nebraska",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$140",
+    "Renewal Cost": "$140",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Nevada",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$250",
+    "Renewal Cost": "$100",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Hampshire",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$110",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Jersey",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$245",
+    "Renewal Cost": "$170",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mexico",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$185",
+    "Renewal Cost": "$170",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "York",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$294",
+    "Renewal Cost": "$179",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$30",
+    "Renewal Cost": "$100",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$75",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Ohio",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$120",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Oklahoma",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$85",
+    "Renewal Cost": "$85",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Oregon",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$75",
+    "Renewal Cost": "$210",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Pennsylvania",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$50",
+    "Renewal Cost": "$65",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Island",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$145",
+    "Renewal Cost": "$145",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$220",
+    "Renewal Cost": "$160",
+    "CE Requirements": "16 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$150",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Tennessee",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$160",
+    "Renewal Cost": "$90",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Texas",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$100",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Utah",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$70",
+    "Renewal Cost": "$47",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Vermont",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$200",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$135",
+    "Renewal Cost": "$50",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Washington",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$110",
+    "Renewal Cost": "$91",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Speech Language Pathologist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$175",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Wisconsin",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$75",
+    "Renewal Cost": "$170",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Wyoming",
+    "license_type": "Speech Language Pathologist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$300",
+    "Renewal Cost": "$100",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Alabama",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$93",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Alaska",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$325",
+    "Renewal Cost": "$175",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Arizona",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$160",
+    "Renewal Cost": "$55",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Arkansas",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$50",
+    "CE Requirements": "1 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "California",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$300",
+    "Renewal Cost": "$300",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Colorado",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$57",
+    "Renewal Cost": "$18",
+    "CE Requirements": "0 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Connecticut",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$190",
+    "Renewal Cost": "$65",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Delaware",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$148",
+    "Renewal Cost": "$222",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Columbia",
+    "license_type": "Physical Therapist Assistant Licensure in District",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$264",
+    "Renewal Cost": "$179",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Florida",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$284",
+    "Renewal Cost": "$80",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Georgia",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$75",
+    "Renewal Cost": "$55",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Hawaii",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$300",
+    "Renewal Cost": "$65",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Idaho",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$55",
+    "Renewal Cost": "$20",
+    "CE Requirements": "16 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Illinois",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$20",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Indiana",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$100",
+    "CE Requirements": "22 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Iowa",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$60",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Kansas",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$80",
+    "Renewal Cost": "$70",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Kentucky",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$225",
+    "Renewal Cost": "$190",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Louisiana",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$390",
+    "Renewal Cost": "$280",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Maine",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$51",
+    "Renewal Cost": "$30",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Maryland",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$145",
+    "CE Requirements": "0 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Massachusetts",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$183",
+    "Renewal Cost": "$100",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Michigan",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$117",
+    "Renewal Cost": "$191",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Minnesota",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$244",
+    "Renewal Cost": "$60",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mississippi",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$250",
+    "Renewal Cost": "$125",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Missouri",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$25",
+    "Renewal Cost": "$50",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Montana",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$60",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Nebraska",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$90",
+    "Renewal Cost": "$90",
+    "CE Requirements": "10 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Nevada",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$100",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Hampshire",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$65",
+    "Renewal Cost": "$48",
+    "CE Requirements": "24 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Jersey",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$125",
+    "Renewal Cost": "$50",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mexico",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$120",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "York",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$103",
+    "Renewal Cost": "$108",
+    "CE Requirements": "36 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$120",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$242",
+    "Renewal Cost": "$200",
+    "CE Requirements": "25 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Ohio",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$70",
+    "CE Requirements": "12 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Oklahoma",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$135",
+    "Renewal Cost": "$90",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Oregon",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$190",
+    "Renewal Cost": "$100",
+    "CE Requirements": "24 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Pennsylvania",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$30",
+    "Renewal Cost": "$45",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Island",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$50",
+    "Renewal Cost": "$50",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$80",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$50",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Tennessee",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$125",
+    "Renewal Cost": "$45",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Texas",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$125",
+    "Renewal Cost": "$184",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Utah",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$47",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Vermont",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$150",
+    "CE Requirements": "16 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$70",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Washington",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$70",
+    "CE Requirements": "40 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Physical Therapist Assistant Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$165",
+    "Renewal Cost": "$60",
+    "CE Requirements": "24 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Wisconsin",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$165",
+    "Renewal Cost": "$75",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Wyoming",
+    "license_type": "Physical Therapist Assistant Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$190",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Alabama",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$130",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Alaska",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$200",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Arizona",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$300",
+    "Renewal Cost": "$160",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Arkansas",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$50",
+    "Renewal Cost": "$150",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "California",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$300",
+    "Renewal Cost": "$300",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Colorado",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$100",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Connecticut",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$285",
+    "Renewal Cost": "$105",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Delaware",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$173",
+    "Renewal Cost": "$260",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Columbia",
+    "license_type": "Physical Therapist Licensure in District",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$264",
+    "Renewal Cost": "$179",
+    "CE Requirements": "40 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Florida",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$180",
+    "Renewal Cost": "$135",
+    "CE Requirements": "22 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Georgia",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$75",
+    "Renewal Cost": "$65",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Hawaii",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$300",
+    "Renewal Cost": "$230",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Idaho",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$170",
+    "Renewal Cost": "$40",
+    "CE Requirements": "16 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Illinois",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$30",
+    "CE Requirements": "40 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Indiana",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$100",
+    "CE Requirements": "22 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Iowa",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$60",
+    "CE Requirements": "40 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Kansas",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$80",
+    "Renewal Cost": "$70",
+    "CE Requirements": "40 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Kentucky",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$190",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Louisiana",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$390",
+    "Renewal Cost": "$280",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Maine",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$51",
+    "Renewal Cost": "$30",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Maryland",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$231",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Massachusetts",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$226",
+    "Renewal Cost": "$100",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Michigan",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$117",
+    "Renewal Cost": "$191",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Minnesota",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$60",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mississippi",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$275",
+    "Renewal Cost": "$150",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Missouri",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$25",
+    "Renewal Cost": "$50",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Montana",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$60",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Nebraska",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$133",
+    "Renewal Cost": "$133",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Nevada",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$300",
+    "Renewal Cost": "$150",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Hampshire",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$110",
+    "CE Requirements": "24 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Jersey",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$125",
+    "Renewal Cost": "$110",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mexico",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$250",
+    "Renewal Cost": "$160",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "York",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$294",
+    "Renewal Cost": "$224",
+    "CE Requirements": "36 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$195",
+    "Renewal Cost": "$120",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$241",
+    "Renewal Cost": "$100",
+    "CE Requirements": "25 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Ohio",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$70",
+    "CE Requirements": "24 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Oklahoma",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$90",
+    "CE Requirements": "40 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Oregon",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$190",
+    "Renewal Cost": "$100",
+    "CE Requirements": "24 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Pennsylvania",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$30",
+    "Renewal Cost": "$90",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Island",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$170",
+    "Renewal Cost": "$155",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$90",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$50",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Tennessee",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$65",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Texas",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$190",
+    "Renewal Cost": "$248",
+    "CE Requirements": "30 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Utah",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$70",
+    "Renewal Cost": "$47",
+    "CE Requirements": "40 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Vermont",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$150",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$140",
+    "Renewal Cost": "$135",
+    "CE Requirements": "20 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Washington",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$65",
+    "Renewal Cost": "$75",
+    "CE Requirements": "32 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Physical Therapist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$245",
+    "Renewal Cost": "$80",
+    "CE Requirements": "24 units",
+    "Compact License": "Yes"
+  },
+  {
+    "state": "Wisconsin",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$165",
+    "Renewal Cost": "$56",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Wyoming",
+    "license_type": "Physical Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$240",
+    "Renewal Cost": "$75",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Alabama",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$140",
+    "Renewal Cost": "$140",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Alaska",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$350",
+    "Renewal Cost": "$200",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Arizona",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$257",
+    "Renewal Cost": "$135",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Arkansas",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$75",
+    "Renewal Cost": "$65",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "California",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$486",
+    "Renewal Cost": "$270",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Colorado",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$65",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Connecticut",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$205",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Delaware",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$223",
+    "Renewal Cost": "$223",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Columbia",
+    "license_type": "Occupational Therapist Licensure in District",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$314",
+    "Renewal Cost": "$203",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Florida",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$180",
+    "Renewal Cost": "$60",
+    "CE Requirements": "26 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Georgia",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$95",
+    "Renewal Cost": "$65",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Hawaii",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$279",
+    "Renewal Cost": "$186",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Idaho",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$80",
+    "Renewal Cost": "$40",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Illinois",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$25",
+    "Renewal Cost": "$20",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Indiana",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$100",
+    "CE Requirements": "18 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Iowa",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$60",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Kansas",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$83",
+    "Renewal Cost": "$75",
+    "CE Requirements": "40 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Kentucky",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$50",
+    "Renewal Cost": "$50",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Louisiana",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$100",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Maine",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$56",
+    "Renewal Cost": "$40",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Maryland",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$250",
+    "Renewal Cost": "$280",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Massachusetts",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$100",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Michigan",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$103",
+    "Renewal Cost": "$162",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Minnesota",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$218",
+    "Renewal Cost": "$185",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mississippi",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$250",
+    "Renewal Cost": "$150",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Missouri",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$30",
+    "Renewal Cost": "$30",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Montana",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$230",
+    "Renewal Cost": "$110",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Nebraska",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$120",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Nevada",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$400",
+    "Renewal Cost": "$250",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Hampshire",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$218",
+    "Renewal Cost": "$110",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Jersey",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$160",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mexico",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$85",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "York",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$294",
+    "Renewal Cost": "$224",
+    "CE Requirements": "36 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$110",
+    "Renewal Cost": "$50",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$150",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Ohio",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$70",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Oklahoma",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$100",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Oregon",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$260",
+    "Renewal Cost": "$200",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Pennsylvania",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$30",
+    "Renewal Cost": "$55",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Island",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$140",
+    "Renewal Cost": "$140",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$135",
+    "Renewal Cost": "$100",
+    "CE Requirements": "16 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$50",
+    "Renewal Cost": "$50",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Tennessee",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$95",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Texas",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$140",
+    "Renewal Cost": "$248",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Utah",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$70",
+    "Renewal Cost": "$47",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Vermont",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$150",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$130",
+    "Renewal Cost": "$135",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Washington",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$166",
+    "Renewal Cost": "$157",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Occupational Therapist Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$140",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Wisconsin",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$100",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Wyoming",
+    "license_type": "Occupational Therapist Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$225",
+    "Renewal Cost": "$110",
+    "CE Requirements": "16 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Alabama",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$115",
+    "Renewal Cost": "$115",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Alaska",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$150",
+    "Renewal Cost": "$175",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Arizona",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$192",
+    "Renewal Cost": "$70",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Arkansas",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$50",
+    "Renewal Cost": "$65",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "California",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$225",
+    "Renewal Cost": "$180",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Colorado",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$60",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Connecticut",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$205",
+    "CE Requirements": "18 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Delaware",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$78",
+    "Renewal Cost": "$0",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Columbia",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in District",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$264",
+    "Renewal Cost": "$179",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Florida",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$180",
+    "Renewal Cost": "$60",
+    "CE Requirements": "22 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Georgia",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$50",
+    "Renewal Cost": "$55",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Hawaii",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$279",
+    "Renewal Cost": "$186",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Idaho",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$30",
+    "Renewal Cost": "$30",
+    "CE Requirements": "2 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Illinois",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$75",
+    "Renewal Cost": "$10",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Indiana",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$100",
+    "CE Requirements": "9 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Iowa",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$60",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Kansas",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$80",
+    "Renewal Cost": "$75",
+    "CE Requirements": "40 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Kentucky",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$35",
+    "Renewal Cost": "$50",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Louisiana",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$75",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Maine",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$116",
+    "Renewal Cost": "$35",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Maryland",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$200",
+    "Renewal Cost": "$200",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Massachusetts",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$109",
+    "Renewal Cost": "$100",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Michigan",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$101",
+    "Renewal Cost": "$159",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Minnesota",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$139",
+    "Renewal Cost": "$105",
+    "CE Requirements": "18 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mississippi",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$100",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Missouri",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$10",
+    "Renewal Cost": "$10",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Montana",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$190",
+    "Renewal Cost": "$60",
+    "CE Requirements": "10 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Nebraska",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$120",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Nevada",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$325",
+    "Renewal Cost": "$125",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Hampshire",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$60",
+    "Renewal Cost": "$110",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Jersey",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$100",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Mexico",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$135",
+    "Renewal Cost": "$60",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "York",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$147",
+    "Renewal Cost": "$114",
+    "CE Requirements": "36 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$110",
+    "Renewal Cost": "$50",
+    "CE Requirements": "15 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$160",
+    "Renewal Cost": "$110",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Ohio",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$70",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Oklahoma",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$120",
+    "Renewal Cost": "$100",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Oregon",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$110",
+    "Renewal Cost": "$100",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Pennsylvania",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$30",
+    "Renewal Cost": "$45",
+    "CE Requirements": "0 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Island",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$140",
+    "Renewal Cost": "$140",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Carolina",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$115",
+    "Renewal Cost": "$80",
+    "CE Requirements": "16 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Dakota",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$50",
+    "Renewal Cost": "$50",
+    "CE Requirements": "12 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Tennessee",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "6-8 weeks",
+    "Initial Cost": "$75",
+    "Renewal Cost": "$0",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Texas",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$184",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Utah",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$70",
+    "Renewal Cost": "$47",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Vermont",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$0",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "4-6 weeks",
+    "Initial Cost": "$70",
+    "Renewal Cost": "$70",
+    "CE Requirements": "20 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Washington",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "9 weeks or more",
+    "Initial Cost": "$166",
+    "Renewal Cost": "$137",
+    "CE Requirements": "30 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Virginia",
+    "license_type": "Certified Occupational Therapist Assistant Licensure in",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$100",
+    "Renewal Cost": "$120",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Wisconsin",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2 weeks or less",
+    "Initial Cost": "$75",
+    "Renewal Cost": "$75",
+    "CE Requirements": "24 units",
+    "Compact License": "No"
+  },
+  {
+    "state": "Wyoming",
+    "license_type": "Certified Occupational Therapist Assistant Licensure",
+    "Timeline": "2-4 weeks",
+    "Initial Cost": "$175",
+    "Renewal Cost": "$60",
+    "CE Requirements": "32 units",
+    "Compact License": "No"
+  }
+]
